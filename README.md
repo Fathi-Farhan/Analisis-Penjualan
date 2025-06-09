@@ -45,27 +45,31 @@ Proyek ini mengikuti metodologi analisis data yang terstruktur:
 * 📈 **Ledakan Penjualan di Kuartal Keempat**
     Penjualan melonjak drastis di bulan **Oktober dan November**, menandakan momentum kuat menjelang musim liburan yang harus dimanfaatkan secara maksimal.
 
-    *[Gambar Grafik Penjualan Bulanan]*
+    ![image](https://github.com/user-attachments/assets/4c9cc30e-898e-4a99-ab42-f0dda67e11fd)
 
 * 🌍 **Madrid sebagai Jantung Penjualan**
     Dengan kontribusi **lebih dari $1 Juta**, **Madrid** terbukti sebagai pasar paling vital. Ini menunjukkan dominasi kuat di pasar Spanyol yang perlu dipertahankan.
 
-    *[Gambar Grafik Penjualan per Kota]*
+    ![image](https://github.com/user-attachments/assets/dfeadad8-0b37-400c-b491-69a38d7c6154)
+
 
 * 🚗 **"Classic Cars" Tak Tergoyahkan**
     **'Classic Cars'** adalah lini produk andalan yang menyumbang pendapatan lebih dari **$3.9 Juta**, menjadikannya aset paling berharga dalam portofolio produk perusahaan.
 
-    *[Gambar Grafik Penjualan per Lini Produk]*
+    ![image](https://github.com/user-attachments/assets/88af6a0e-82ea-4691-9ac5-40b726011635)
+
 
 * 🏢 **Kekuatan Pelanggan Korporat**
     Pelanggan B2B seperti **'Euro Shopping Channel'** dan **'Mini Gifts Distributors Ltd.'** adalah pendorong pendapatan utama, menggarisbawahi pentingnya strategi manajemen akun khusus untuk klien korporat.
 
-    *[Gambar Grafik Top 10 Pelanggan]*
+    ![image](https://github.com/user-attachments/assets/bfde275f-ae22-4395-bbe9-d5b917a74da7)
+
 
 * 🌙 **Misteri Aktivitas Tengah Malam**
     Analisis mengungkap pola unik di mana jumlah pesanan mencapai puncaknya pada **tengah malam**. Fenomena ini membuka peluang untuk kampanye pemasaran non-tradisional yang menargetkan audiens malam hari.
 
-    *[Gambar Grafik Pesanan per Jam]*
+    ![image](https://github.com/user-attachments/assets/62ce6e77-d6d2-4271-b0eb-e0cf174ea267)
+
 
 ### 🏆 **Rekomendasi Strategis untuk Pertumbuhan**
 
@@ -88,7 +92,7 @@ Tertarik untuk menjalankan analisis ini sendiri?
     ```
 2.  **Clone Repositori:**
     ```bash
-    git clone [URL_REPOSITORI_ANDA_DI_SINI]
+    git clone https://github.com/Fathi-Farhan/Analisis-Penjualan.git
     ```
 3.  **Jalankan Jupyter:** Navigasikan ke direktori proyek dan jalankan Jupyter Lab.
     ```bash
